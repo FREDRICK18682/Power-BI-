@@ -1,1 +1,1 @@
-# Power-BI-
+This project focuses on analyzing and visualizing data related to harassment and bullying in schools across various states in the United States of America using Power BI. The goal is to identify trends, patterns, and high-risk areas to better understand the prevalence and distribution of bullying cases
